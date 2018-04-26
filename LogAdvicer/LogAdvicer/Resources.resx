@@ -125,8 +125,17 @@
     <value>Type name '{0}' contains lowercase letters</value>
     <comment>The format-able message the diagnostic displays.</comment>
   </data>
+  <data name="AnalyzerMethodTitle" xml:space="preserve">
+    <value>Method Should have a Log Statement</value>
+  </data>
   <data name="AnalyzerTitle" xml:space="preserve">
     <value>Type name contains lowercase letters</value>
     <comment>The title of the diagnostic.</comment>
+  </data>
+  <data name="MethodDescription" xml:space="preserve">
+    <value>Method Should have a Log Statement</value>
+  </data>
+  <data name="MethodFormat" xml:space="preserve">
+    <value>Method '{0}' Should have a Log Statement</value>
   </data>
 </root>
